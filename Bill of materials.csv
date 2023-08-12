@@ -1,0 +1,65 @@
+﻿Category,Quantity,Drawing Reference,Value,Manufacturer,Manufacturer Part No.,Vendor,Vendor Part Number,Comment,MTBF (hrs),Failure Rate (λ),R(t),R(t) Actual,Failure Rate Total (λ)
+Motor,1,M1,BLDC_MOTOR_MOOG,Moog,BN34-35AP-04LH,Moog,BN34-35AP-04LH,BLDC Motor,N/A,N/A,N/A,N/A,
+Resistors,16,"R1-R7,R14,R15,R18-R23,R29",1k8,RS Pro,707-7688,RS,707-7688,0.25W,7.55E+08,1.32E-09,1.00,1.00,2.12E-08
+Resistors,6,R8-R13,270R,RS Pro,707-7625,RS,707-7625,0.25W,1.91E+08,5.25E-09,1.00,1.00,3.15E-08
+Resistors,3,R24-R26,10k,RS Pro,707-7745,RS,707-7745,0.25W,1.62E+09,6.16E-10,1.00,1.00,1.85E-09
+Resistors,2,"R27,R31",1k,RS Pro,707-7666,RS,707-7666,0.25W,1.38E+08,7.27E-09,1.00,1.00,1.45E-08
+Resistors,2,"R28,R30",120R,RS Pro,707-7599,RS,707-7599,0.25W,7.83E+08,1.28E-09,1.00,1.00,2.55E-09
+Resistors,6,R32-R37,1k2,RS Pro,707-7678,RS,707-7678,0.25W,8.01E+10,1.25E-11,1.00,1.00,7.49E-11
+Resistors,6,R38-R43,5R6,MULTICOMP,MCF 0.25W 5R6,Farnell,933-9639,0.25W,3.78E+09,2.65E-10,1.00,1.00,1.59E-09
+Capacitors,12,"C2-C8,C9,C14,C16,C18,C20",100nF,KEMET,C320C104K5R5TA,RS,538-1310,50V,4.35E+08,2.30E-09,1.00,1.00,2.76E-08
+Capacitors,3,"C10,C11,C13",1uF,Vishay,199D105X9050B1V1E3,RS,830-9964,50V,3.50E+08,2.86E-09,1.00,1.00,8.57E-09
+Capacitors,1,C12,220uF,RS Pro,711-1466,RS,711-1466,50V,1.44E+08,6.92E-09,1.00,1.00,6.92E-09
+Integrated Circuits,1,U1,PIC16F887,Microchip,PIC16F887,RS,399-410P,MCU,3.03E+06,3.30E-07,1.00,1.00,3.30E-07
+Integrated Circuits,2,"U2,U3",74HCT08N,NXP,74HCT08N,RS,169-6185,AND Logic Gate,3.08E+09,3.25E-10,1.00,1.00,6.49E-10
+Integrated Circuits,1,U4,SN7407N,Texas Instruments,SN7407N,RS,306-336,Buffer,1.44E+09,6.94E-10,1.00,1.00,6.94E-10
+Integrated Circuits,1,U5,SN74LS06,Texas Instruments,SN74LS06N,RS,168-7399,Buffer Inverting,1.44E+09,6.94E-10,1.00,1.00,6.94E-10
+Integrated Circuits,6,U6-U11,HCPL-3020,Avago Technologies,HCPL-3020-000E,RS,237-041,Opto-Isolator,3.98E+06,2.51E-07,1.00,1.00,1.51E-06
+Integrated Circuits,1,U12,LM337T,Texas Instruments,LM337T/NOPB,RS,533-8221,Voltage Regulator Negative,3.78E+08,2.65E-09,1.00,1.00,2.65E-09
+Integrated Circuits,1,U13,LM317T,STMicroelectronics,LM317T,RS,714-0792,Voltage Regulator Positive,3.78E+08,2.65E-09,1.00,1.00,2.65E-09
+Integrated Circuits,6,U14-U19,TC4452VPA,Microchip,TC4452VPA,RS,774-7683,MOSFET Driver,2.28E+06,4.39E-07,1.00,1.00,2.63E-06
+Integrated Circuits,1,U20,JCD0524S05,XP Power,JCD0524S05,RS,122-8123,5V DC-DC Converter,1.10E+06,9.09E-07,1.00,1.00,9.09E-07
+Transistors,3,"Q1,Q3,Q5",IRF5305,Infineon,IRF5305PBF,RS,541-1736,MOSFET P-Channel,1.76E+13,5.67E-14,1.00,1.00,1.70E-13
+Transistors,3,"Q2,Q4,Q6",IRFI1010N,Infineon,IRFI1010NPBF,RS,542-9579,MOSFET N-Channel,4.01E+11,2.49E-12,1.00,1.00,7.48E-12
+Diodes,1,D1,DIODE-LED,Kingbright,L-53GD,RS,228-6004,LED,1.00E+06,1.00E-06,1.00,1.00,1.00E-06
+Diodes,6,D2-D7,DIODE,Infineon,IDP15E65D1XKSA1 ,RS,144-1206,Diode,1.00E+11,1.00E-11,1.00,1.00,6.00E-11
+Battery,1,BAT1,24V,SLK Power,NP12-12,SLK Power,NP12-12,12V 12Ah Deep Cycle Agm battery,N/A,N/A,N/A,N/A,
+Fuse,1,FU1,20A,Schurter,34.313,RS,865-7575,Supply Fuse,N/A,N/A,N/A,N/A,
+Connector,5,"J1-J3,J11,J12",PIN,Molex,90120-0761,RS,670-5073,Pins,N/A,N/A,N/A,N/A,
+Connector,1,J4,CONN-D9M,RS Pro,544-3727,RS,544-3727,D9 Connector,N/A,N/A,N/A,N/A,
+Connector,4,"J5,J6,J9,J10",SIL-100-02,Molex,90120-0922,RS,670-5114,Header,N/A,N/A,N/A,N/A,
+Connector,3,"J7,J8,J14",SIL-100-05,Molex,90120-0766,RS,360-6308,Header,N/A,N/A,N/A,N/A,
+Connector,1,J13,CONN-D9F,Harting,9670094754,RS,117-4196,D9 Connector,N/A,N/A,N/A,N/A,
+Resistors,1,RV1,500R,TE Connectivity,TW1501KA,RS,502-8586,"POT 1W, (Endurance = 10,000 operations)",N/A,N/A,N/A,N/A,
+Switch,1,SW1,SW-SPST,Arcolectric,C1700HOAAG,RS,350-204,Switch,N/A,N/A,N/A,N/A,
+Connector,12,"U6-U11, U14-U19",DIP-SKT-8,Winslow,W30508TRC,RS,813-115,DIP Socket 8 Way,N/A,N/A,N/A,N/A,
+Connector,4,U2-U5,DIP-SKT-14,Winslow,W30514TRC,RS,813-121,DIP Socket 14 Way,N/A,N/A,N/A,N/A,
+Connector,1,U1,DIP-SKT-40,Winslow,W30540TRC,RS,813-193,DIP Socket 40 Way,N/A,N/A,N/A,N/A,
+Enclosure,1,-,-,Fibox,TA241911T,RS,104-199,"TEMPO ABS Enclosure, IP65, 240 x 191 x 107.4mm",N/A,N/A,N/A,N/A,
+Cable Gland,2,-,-,RS Pro,669-4654,RS,669-4654,"M12 Black Nylon, IP68 Cable Gland With Locknut",N/A,N/A,N/A,N/A,
+Material,1,-,-,RS Pro,434-295,RS,434-295,"Acrylic Sheet, 500mm x 300mm x 3mm",N/A,N/A,N/A,N/A,
+Cable Termination,10,-,-,Wago,222-413,RS,475-1437,"Non-Fused Terminal Block, 3 Way/Pole",N/A,N/A,N/A,N/A,
+Heatsink,14,-,-,Ohmite,CSM221-12AE,Mouser,588-CSM221-12AE,TO-220 Heatsink,N/A,N/A,N/A,N/A,
+Heatsink,1,-,-,ABL Components,515AB1000MB,RS,234-2514,Motor Heatsink,N/A,N/A,N/A,N/A,
+Fan,2,"FAN1, FAN2",-,Move & Moving,F013911,Move & Moving,F013911,Cooling Fan 50mm x 50mm x 10mm 24VDC,2.00E+05,5.00E-06,1.00,1.00,3.33E-06
+PCB,1,-,-,JLCPCB,-,JLCPCB,-,Order Number Y1-2278282A,N/A,N/A,N/A,N/A,
+Cable,1m,-,-,TE Connectivity,44A0111-18-2 ,RS,329-9534,18AWG Type 44 Single Core Cable - Red,N/A,N/A,N/A,N/A,
+Cable,1m,-,-,TE Connectivity,44A0111-18-0,RS,229-1472,18AWG Type 44 Single Core Cable - Black,N/A,N/A,N/A,N/A,
+Cable,1m,-,-,TE Connectivity,44A0111-24-4,RS,918-5214,24AWG Type 44 Single Core Cable - Yellow,N/A,N/A,N/A,N/A,
+Fitting,4,-,-,RS Pro,291-240,RS,291-240,M3 Nylon Bolt (30mm),N/A,N/A,N/A,N/A,
+Fitting,36,-,-,RS Pro,560-338,RS,560-338,M3 Penny Washer,N/A,N/A,N/A,N/A,
+Fitting,18,-,-,RS Pro,524-281,RS,524-281,M3 Lock Nut,N/A,N/A,N/A,N/A,
+Fitting,14,-,-,RS Pro,660-4636,RS,660-4636,M3 Bolt (10mm),N/A,N/A,N/A,N/A,
+Consumable,1,-,-,Araldite,ARA-400007,RS,756-0102,Araldite Epoxy Adhesive,N/A,N/A,N/A,N/A,
+Consumable,1,-,-,Loctite,737195,Farnell,1257143,"Solder Wire, Lead Free",N/A,N/A,N/A,N/A,
+Consumable,1,-,-,Loctite,88318,RS,198-7166,Silicone Adhesive,N/A,N/A,N/A,N/A,
+Consumable,1,-,-,Cable Craft,ZH-HS 3.2 CLEAR,Cable Craft,ZH-HS 3.2 CLEAR,"Heat Shrink, Clear",N/A,N/A,N/A,N/A,
+Consumable,1,-,-,Loctite,X3312I,Farnell,1115473,Solder Flux,N/A,N/A,N/A,N/A,
+Consumable,1,-,-,PRO POWER,TCW18 500G,Farnell,1230996,Tinned Copper Wire 18SWG,N/A,N/A,N/A,N/A,
+Capacitors,3,"C1,C15,C19",10nF,KEMET,C315C103K5R5TA,RS,538-1196,50V,5.35E+08,1.87E-09,1.00,1.00,5.60E-09
+Capacitors,1,C17,10uF,Rubycon,50YXF10M5X11,RS,224-4325,50V,2.87E+08,3.48E-09,1.00,1.00,3.48E-09
+Integrated Circuits,1,U21,ADM2687E,Analog Devices,ADM2687E,RS,796-8972,RS485 Transceiver,1.25E+10,7.99E-11,1.00,1.00,7.99E-11
+Diodes,12,"D8-D13, D20-D25",DFLS1100-7,Diodes Incorporated,DFLS1100-7,RS,708-2292,Schottky Diode,1.00E+11,1.00E-11,1.00,1.00,1.20E-10
+Diodes,6,D14-D19,SMBJ14A-13-F,Diodes Incorporated,SMBJ14A-13-F,RS,885-5637,TVS Diode,1.00E+11,1.00E-11,1.00,1.00,6.00E-11
+Capacitors,6,C21-C26,1nF,Vishay,VY1102M35Y5UG6TV0,RS,736-8946,100V Minimum,4.35E+08,2.30E-09,1.00,1.00,1.38E-08
+Resistors,6,"R16, R17, R44-R47",10R,RS Pro,707-7509,RS,707-7509,0.25W,1.62E+09,6.16E-10,1.00,1.00,3.70E-09
