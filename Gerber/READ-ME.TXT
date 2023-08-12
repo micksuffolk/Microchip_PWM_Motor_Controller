@@ -1,0 +1,58 @@
+LABCENTER PROTEUS TOOL INFORMATION FILE
+=======================================
+
+In case of difficulty, please e-mail support@labcenter.co.uk
+
+Tool set up for Proteus layout '0001-PWM-EL-001_Rev33.LYT'.
+CADCAM generated at 20:12:59 on 11 March 2019.
+
+File List
+---------
+Top Copper              : 0001-PWM-EL-001_Rev33 - CADCAM Top Copper.TXT
+Bottom Copper           : 0001-PWM-EL-001_Rev33 - CADCAM Bottom Copper.TXT
+Top Silk Screen         : 0001-PWM-EL-001_Rev33 - CADCAM Top Silk Screen.TXT
+Top Solder Resist       : 0001-PWM-EL-001_Rev33 - CADCAM Top Solder Resist.TXT
+Bottom Solder Resist    : 0001-PWM-EL-001_Rev33 - CADCAM Bottom Solder Resist.TXT
+Mechanical 1            : 0001-PWM-EL-001_Rev33 - CADCAM Mechanical 1.TXT
+Mechanical 2            : 0001-PWM-EL-001_Rev33 - CADCAM Mechanical 2.TXT
+Drill                   : 0001-PWM-EL-001_Rev33 - CADCAM Drill.TXT
+
+Photoplotter Setup
+------------------
+Format: RS274X, ASCII, 2.4, imperial, absolute, eob=*, LZO
+Notes:  D=Diameter, S=Side, W=Width, H=Height, C=Chamfer
+
+D10	CIRCLE  D=25th                                                            DRAW
+D11	CIRCLE  D=40th                                                            DRAW
+D12	CIRCLE  D=80th                                                            DRAW
+D13	CIRCLE  D=10th                                                            DRAW
+D14	CIRCLE  D=50th                                                            FLASH
+D15	CIRCLE  D=80th                                                            FLASH
+D16	SQUARE  S=80th                                                            FLASH
+D17	CIRCLE  D=70th                                                            FLASH
+D18	CIRCLE  D=250th                                                           FLASH
+D19	SQUARE  S=60th                                                            FLASH
+D70	CIRCLE  D=60th                                                            FLASH
+D71	SQUARE  S=50th                                                            FLASH
+D20	SQUARE  S=70th                                                            FLASH
+D21	CIRCLE  D=8th                                                             DRAW
+D22	CIRCLE  D=6th                                                             DRAW
+D23	CIRCLE  D=100th                                                           FLASH
+D24	SQUARE  S=100th                                                           FLASH
+D25	CIRCLE  D=90th                                                            FLASH
+D26	CIRCLE  D=290th                                                           FLASH
+D27	SQUARE  S=90th                                                            FLASH
+
+NC Drill Setup
+--------------
+Format: ASCII, 2.4, imperial, absolute, eob=<CR><LF>, no zero suppression.
+Notes:  Tool sizes are diameters. Layer sets are in brackets - 0=TOP, 15=BOTTOM, 1-14=INNER.
+
+T01	20th (0-15)
+T02	118.1th (0-15)
+T03	40th (0-15)
+T04	30th (0-15)
+T05	32th (0-15)
+
+
+[END OF FILE]
